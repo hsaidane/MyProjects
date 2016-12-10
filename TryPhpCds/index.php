@@ -14,7 +14,7 @@ $courses = $json_data['courses']['completed'];
   </head>
   <body>
     <header>
-      <h1>Completed Code School Certificate for HATEM SAIDANE</h1>
+      <h1>Completed Code School Certificates - HATEM SAIDANE</h1>
     </header>
     <div class="container">
       <div class="grid">
